@@ -22,7 +22,7 @@ func Multiple3And5(number int) int {
 
 	// }
 
-	//variant 2
+	//variant #2
 	sum := 0
 
 	for x := 0; x < number; x++ {
